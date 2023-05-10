@@ -27,7 +27,7 @@ This file incorporates angle of incidence (AOI) calculations using specific para
 ### Power simulation
 This file incorporates the script created to simulate the DC and AC power on the test site using the average irradiance and temperature. This was done for both simulated and measured irradiance. Modifications of this script were used to retrieve results for all time periods and for the case of the cumulative sky. For the case of cumulative sky, the DC energy was simulated but the AC energy was omitted.
 
-### Materials.rad
+### Materials.txt
 This file incorporates all the RADIANCE default materials included in bifacial\_radiance software. The materials used to create the 3D model in this thesis were \textit{stock glass}, \textit{Metal\_Grey}, and \textit{black}.
 
 ### README.md
