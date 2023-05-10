@@ -21,7 +21,7 @@ The sky was generated with two approaches from the imported weather data, one wh
 
 The 3D model is set up with objects corresponding to the dimensions, angles, and positions of the objects on the test site. 
 
-### Angle of incidence
+### Angle of incidence (AOI)
 This file incorporates angle of incidence (AOI) calculations using specific parameters from the test site to retrieve the irradiance where losses due to AOI have been taken into account.
 
 ### Power simulation
