@@ -3,6 +3,7 @@
 This repository includes the important scripts creating in Jupyter notebook while working with the master's thesis "Simulation of a vertical bifacial PV system compared to measured values". This master's thesis represent the completion of the master’s degree in Environmental Physics and Renewable Energy at the Norwegian University of Life Sciences (NMBU), and has been written in collaboration with the Institute
 for Energy Technology (IFE).
 
+© Amalie Elisabeth Robsahm
 
 # Repository overview
 All the scripts in this repository are site-spesific for the test site located at IFE studied in this master's thesis, but a few generalizations have been done. The presented scripts have been modified to retrieve all the results presented in the master's thesis.
