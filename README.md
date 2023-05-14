@@ -1,6 +1,6 @@
-# Simulation of a vertical bifacial PV system from Over Easy Solar AS compared to measured values
+# Simulation of a vertical bifacial PV system compared to measured values
 
-This repository includes the important scripts creating in Jupyter notebook while working with the master's thesis "Simulation of a vertical bifacial PV system from Over Easy Solar AS compared to measured values". This master's thesis represent the completion of the master’s degree in Environmental Physics and Renewable Energy at the Norwegian University of Life Sciences (NMBU), and has been written in collaboration with the Institute
+This repository includes the important scripts creating in Jupyter notebook while working with the master's thesis "Simulation of a vertical bifacial PV system compared to measured values". This master's thesis represent the completion of the master’s degree in Environmental Physics and Renewable Energy at the Norwegian University of Life Sciences (NMBU), and has been written in collaboration with the Institute
 for Energy Technology (IFE).
 
 © Amalie Elisabeth Robsahm
